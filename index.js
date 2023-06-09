@@ -3,7 +3,7 @@ import { init as initWebex } from 'webex';
 // Initialize the SDK and make it available to the window
 const webex = (window.webex = initWebex({
   credentials: {
-    access_token: 'ZmQwODczZTItOTNmNi00NmU5LWIwOTMtMjExYzUyZjVjZThiYThmNTRiYzctNzBl_P0A1_63808cdd-7608-4991-8f79-b2df9bee232a'
+    access_token: 'YmY3ODdiNTUtOWI3ZC00MzlkLTkwZjYtNGE0YWIyOGRlOWU3ZDBjZDY0YzgtYTA1_P0A1_1c6f420f-f34d-4778-8697-a86e58d00da9'
   }
 }));
 
